@@ -1,61 +1,71 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yuxuan Zhao",
+    "label": "Full Stack Engineer 3",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yuxuan.zhao2024@gmail.com",
+    "phone": "(401) 688-8189",
+    "url": "https://yuxuanzhao23.github.io",
+    "summary": "Innovative and detail-oriented Full Stack Developer with 3+ years of experience in designing and developing robust web applications using Angular, React, and Node.js",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "331 Hope St",
+      "postalCode": "RI 02906",
+      "city": "Providence",
       "countryCode": "US",
-      "region": "California"
+      "region": "Rhode Island"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "YuxuanZhao",
+        "url": "https://www.linkedin.com/in/yuxuanzhao24"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Fidelity Investments",
+      "position": "Full Stack Engineer 3",
+      "url": "https://www.fidelity.com/trading/trading-dashboard",
+      "startDate": "2023-07-03",
+      "endDate": "Present",
+      "summary": "Iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle. Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate. Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit. Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support.",
+      "highlights": ["Angular, Node.js"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Brown University",
+      "location": "Providence, RI",
+      "url": "https://www.brown.edu",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2021-09-01",
+      "endDate": "2023-05-20",
+      "score": "3.9/4.0",
+      "courses": ["Database Management Systems", "Deep Learning", "Data Science", "Artificial Intelligence", "Interdisciplinary Scientific Visualization", "Computer Vision", "Graph Theory and Algorithms"]
+    },
+    {
+      "institution": "Harvard University",
+      "location": "Cambridge, MA",
+      "url": "https://www.harvard.edu",
+      "area": "Data Structure and Algorithm",
+      "studyType": "Cross Registration",
+      "startDate": "2022-01-01",
+      "endDate": "2022-05-30",
+      "score": "3.8/4.0",
+      "courses": ["Data Structure and Algorithm"]
+    },
+    {
+      "institution": "University of Liverpool",
+      "location": "Liverpool, UK",
+      "url": "https://www.liverpool.ac.uk",
+      "area": "Information and Computing Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-09-01",
+      "endDate": "2020-07-31",
+      "score": "3.8/4.0",
+      "courses": ["Calculus", "Linear Algebra for Mathematical Science", "Multivatiable Calculus", "Computer Systems", "Introduction to Databases", "Introduction to Programming in Java", "Foundations of Computing Science", "Algorithmic Foundations and Problem Solving", "Data Structures", "Operating Systems Concepts", "Human-Centric Computing", "Decision Computation and Language", "Introduction to Networking", "Software Engineer", "Computer Graphics", "Artificial Intelligence", "Complexity of Algorithms", "Advanced OO Programming", "Formal Methods", "Mobile Computing", "Big Data Analytics", "Multi-Agent Systems", "Principles of Computer Games Design"]
     }
   ],
   "awards": [
@@ -69,9 +79,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "University Academic Excellence Award",
+      "date": "2018-07-01",
+      "issuer": "University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
