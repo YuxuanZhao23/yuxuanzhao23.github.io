@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We decide to create a latest Option Summary to decompose the original one!
+We decide to create a new Option Summary with all new technologies and decompose the original one!
