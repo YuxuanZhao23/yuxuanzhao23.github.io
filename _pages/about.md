@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Full Stack Engineer 3, <a href='https://www.fidelity.com/about-fidelity/our-company'>Fidelity</a> 
+subtitle: Full Stack Engineer 3, <a href='https://www.fidelity.com/about-fidelity/our-company'>Fidelity</a>
 
 profile:
   align: right
@@ -14,8 +14,6 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
 
 Hi there! I'm Yuxuan Zhao, an innovative, detail-oriented, and passionate Full Stack Engineer at Fidelity. With over 2 years of experience, I've been happily architecting and developing robust and scalable applications using Angular, React, and Node.js. I've also had the pleasure of interning at CGI, Cisco, SenseTime, and Lenovo Research.
 

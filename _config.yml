@@ -4,13 +4,13 @@
 
 title: Yuxuan Zhao # the website title (if blank, full name will be used instead)
 first_name: Yuxuan
-middle_name: 
+middle_name:
 last_name: Zhao
 email: yuxuan.zhao2024@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yuxuan Zhao's personal website to exemplify his beliefs, skills, qualifications, education, training, and experiences
 footer_text: >
-keywords: 
+keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

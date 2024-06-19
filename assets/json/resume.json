@@ -43,7 +43,15 @@
       "startDate": "2021-09-01",
       "endDate": "2023-05-20",
       "score": "3.9/4.0",
-      "courses": ["Database Management Systems", "Deep Learning", "Data Science", "Artificial Intelligence", "Interdisciplinary Scientific Visualization", "Computer Vision", "Graph Theory and Algorithms"]
+      "courses": [
+        "Database Management Systems",
+        "Deep Learning",
+        "Data Science",
+        "Artificial Intelligence",
+        "Interdisciplinary Scientific Visualization",
+        "Computer Vision",
+        "Graph Theory and Algorithms"
+      ]
     },
     {
       "institution": "Harvard University",
@@ -65,7 +73,31 @@
       "startDate": "2016-09-01",
       "endDate": "2020-07-31",
       "score": "3.8/4.0",
-      "courses": ["Calculus", "Linear Algebra for Mathematical Science", "Multivatiable Calculus", "Computer Systems", "Introduction to Databases", "Introduction to Programming in Java", "Foundations of Computing Science", "Algorithmic Foundations and Problem Solving", "Data Structures", "Operating Systems Concepts", "Human-Centric Computing", "Decision Computation and Language", "Introduction to Networking", "Software Engineer", "Computer Graphics", "Artificial Intelligence", "Complexity of Algorithms", "Advanced OO Programming", "Formal Methods", "Mobile Computing", "Big Data Analytics", "Multi-Agent Systems", "Principles of Computer Games Design"]
+      "courses": [
+        "Calculus",
+        "Linear Algebra for Mathematical Science",
+        "Multivatiable Calculus",
+        "Computer Systems",
+        "Introduction to Databases",
+        "Introduction to Programming in Java",
+        "Foundations of Computing Science",
+        "Algorithmic Foundations and Problem Solving",
+        "Data Structures",
+        "Operating Systems Concepts",
+        "Human-Centric Computing",
+        "Decision Computation and Language",
+        "Introduction to Networking",
+        "Software Engineer",
+        "Computer Graphics",
+        "Artificial Intelligence",
+        "Complexity of Algorithms",
+        "Advanced OO Programming",
+        "Formal Methods",
+        "Mobile Computing",
+        "Big Data Analytics",
+        "Multi-Agent Systems",
+        "Principles of Computer Games Design"
+      ]
     }
   ],
   "awards": [
