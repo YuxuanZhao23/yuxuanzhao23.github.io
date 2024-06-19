@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuxuan Zhao's Portfolio # the website title (if blank, full name will be used instead)
+title: Yuxuan Zhao # the website title (if blank, full name will be used instead)
 first_name: Yuxuan
 middle_name: 
 last_name: Zhao
@@ -108,7 +108,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
