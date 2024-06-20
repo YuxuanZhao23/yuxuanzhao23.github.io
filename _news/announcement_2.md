@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have :sparkles: 1 Million :sparkles: unique users in [Trading Dashboard](https://yuxuanzhao23.github.io/projects/TD/) today!
+We have 1 Million :rocket: unique users in [Trading Dashboard](https://yuxuanzhao23.github.io/projects/TD/) today!

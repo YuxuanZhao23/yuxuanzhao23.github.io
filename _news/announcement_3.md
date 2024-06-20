@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We decide to revamp Option Summary with all new technologies!
+We decide to revamp Option Summary with all new technologies :notes: !
