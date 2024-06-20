@@ -1,12 +1,10 @@
 {
   "basics": {
     "name": "Yuxuan Zhao",
-    "label": "Full Stack Engineer 3",
-    "image": "",
+    "position": "Full Stack Engineer 3",
+    "company": "Fidelity Investments",
     "email": "yuxuan.zhao2024@gmail.com",
     "phone": "(401) 688-8189",
-    "url": "https://yuxuanzhao23.github.io",
-    "summary": "An innovative, detail-oriented, and passionate Full Stack Engineer 3 at Fidelity",
     "location": {
       "address": "331 Hope St",
       "postalCode": "RI 02906",
