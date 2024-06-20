@@ -1,14 +1,22 @@
 ---
 layout: page
 title: Trading Dashboard
-description:
+description: Fidelity’s latest trading platform
 img: assets/img/TD1.png
 importance: 1
 category: work
 related_publications: false
 ---
 
-Trading Dashboard makes trading easier by integrating all of your essential tools in one screen. It works on any browser, desktop, or tablet.
+Trading Dashboard is Fidelity’s latest trading platform, it attracting over 1.25 million customers in a year. 
+
+It makes trading so easy by integrating all of your essential tools in one screen. It is compatible on any browser, desktop, or tablet.
+
+It is the first Fidelity website with both Light mode and dark mode.
+
+Here is the Fidelity offcial introduction website: <a href="https://www.fidelity.com/trading/trading-dashboard">https://www.fidelity.com/trading/trading-dashboard</a>
+
+See your personal Trading Dashboard now in: <a href="https://digital.fidelity.com/ftgw/digital/trader-dashboard">https://digital.fidelity.com/ftgw/digital/trader-dashboard</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,52 +28,70 @@ Trading Dashboard makes trading easier by integrating all of your essential tool
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD4.jpg" title="quote" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Review the quote and use the float trade ticket to take action with confidence and ease. Meanwhile, it supports advanced orders including conditional trading
+        </div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD3.jpg" title="float trade ticket" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD8.jpg" title="conditional order" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD5.jpg" title="positions" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            View your positions clearly and efficiently
+        </div>
+    </div>
+        <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD6.jpg" title="watchlist" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Perform paper trades and analysis before taking action
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD7.jpg" title="chart" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Make the most of the big screen to enjoy the highly customizable charts and indicators
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD9.jpg" title="option chain" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD10.jpg" title="option stats" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Gain deeper insights into options trading
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row">
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD11.jpg" title="alert" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD12.jpg" title="news" class="img-fluid rounded z-depth-1" %}
+    </div>
+        <div class="col-sm mt-4 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD13.jpg" title="event" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+<div class="caption">
+    Set alerts, read news, and view events all in one snapshot
+</div>
