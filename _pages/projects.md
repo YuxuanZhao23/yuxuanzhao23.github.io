@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: Here is a portfolio of some selected work projects
 nav: true
 nav_order: 2
 horizontal: false

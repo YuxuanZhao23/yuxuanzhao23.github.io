@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: Here is a portfolio of my publications
 nav: true
 nav_order: 3
 ---

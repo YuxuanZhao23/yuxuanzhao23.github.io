@@ -54,15 +54,10 @@
       "startDate": "2023-07-03",
       "endDate": "Present",
       "highlights": [
-        "Iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle",
-        "Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
-        "Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
-        "Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support",
-        "Enhanced the option summary grid using AG-Grid, boosting user productivity by 25%",
-        "Led the design and implementation of GraphQL schema and resolvers",
-        "Created Schematic rules to automatically generate or modify code templates and layouts",
-        "Led the epic of chart enhancement end-to-end as a Subject Matter Expert, including timeline projection, KPI selection, feature toggles, and coordinating cross-functional teams",
-        "Collaborated with accessibility researchers to resolve cross-browser behaviors with CAT"
+        "<b>Architect</b>: iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle",
+        "<b>Test</b>: achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
+        "<b>Release</b>: planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
+        "<b>Post-release</b>: managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support"
       ]
     },
     {
@@ -95,8 +90,7 @@
       "endDate": "2021-03-01",
       "highlights": [
         "Developed a shared Vue component library, facilitating cross-team reuse through dependency injection",
-        "Enhanced the performance of ultra-high-resolution images using Openseadragon, a JavaScript library known for its multi-layer zoom capability, resulting in an 83.3% improvement in efficiency",
-        "Achieved a 74.1% reduction in website load time by implementing lazy loading for components, and optimizing service and storage initialization as needed"
+        "Enhanced the performance of ultra-high-resolution images using Openseadragon, a JavaScript library known for its multi-layer zoom capability, resulting in an 83.3% improvement in efficiency"
       ]
     },
     {
@@ -111,7 +105,6 @@
   "education": [
     {
       "institution": "Brown University",
-      "location": "Providence, RI",
       "url": "https://www.brown.edu",
       "area": "Computer Science",
       "studyType": "Master of Science",
@@ -127,7 +120,6 @@
     },
     {
       "institution": "Harvard University",
-      "location": "Cambridge, MA",
       "url": "https://www.harvard.edu",
       "area": "Data Structure and Algorithm",
       "studyType": "Cross Registration",
@@ -138,7 +130,6 @@
     },
     {
       "institution": "University of Liverpool",
-      "location": "Liverpool, UK",
       "url": "https://www.liverpool.ac.uk",
       "area": "Information and Computing Science",
       "studyType": "Bachelor of Science",
