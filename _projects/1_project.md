@@ -16,7 +16,7 @@ Trading Dashboard makes trading easier by integrating all of your essential tool
     </div>
 </div>
 <div class="caption">
-    See all your investment data in real time. It is designed for the way you want to manage investments
+    See all your investment data in real time
 </div>
 
 <div class="row">
