@@ -26,7 +26,7 @@ See your personal Option Summary now in: <a href="https://digital.fidelity.com/f
     The new Option Summary
 </div>
 
-This is the classic Option Summary Page that we have revamped. 
+This is the classic Option Summary Page that we have revamped.
 
 The new version boasts a responsive layout, real-time streaming quotes, and an elegant design.
 
