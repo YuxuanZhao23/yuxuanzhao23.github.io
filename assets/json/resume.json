@@ -58,8 +58,9 @@
         "Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
         "Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
         "Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support",
-        "Led the epic of chart enhancement end-to-end as a Subject Matter Expert, including timeline projection, KPI selection, feature toggles, and coordinating cross-functional teams",
-        "Collaborated with accessibility researchers to resolve cross-browser behaviors with CAT",
+        "Enhanced the option summary grid using AG-Grid, boosting user productivity by 25%",
+        "Led the design and implementation of GraphQL schema and resolvers",
+        "Created Schematic rules to automatically generate or modify code templates and layouts",
         "Led the epic of chart enhancement end-to-end as a Subject Matter Expert, including timeline projection, KPI selection, feature toggles, and coordinating cross-functional teams",
         "Collaborated with accessibility researchers to resolve cross-browser behaviors with CAT"
       ]

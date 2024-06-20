@@ -28,5 +28,6 @@ In addition, the view displays margin requirements and current values for the re
 
 We have revamped the classic Option Summary Page. The new version features a responsive layout, real-time streaming quotes, and an elegant design.
 
-- I led the epic of chart enhancement end-to-end as a Subject Matter Expert, including timeline projection, KPI selection, feature toggles, and coordinating cross-functional teams.
-- I collaborated with accessibility researchers to resolve cross-browser behaviors with CAT.
+- I enhanced the option summary grid using AG-Grid, boosting user productivity by 25%
+- I led the design and implementation of GraphQL schema and resolvers
+- I created Schematic rules to automatically generate or modify code templates and layouts
