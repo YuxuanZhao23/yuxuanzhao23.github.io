@@ -24,7 +24,7 @@
     {
       "name": "Fidelity Investments",
       "position": "Full Stack Engineer 3",
-      "url": "https://www.fidelity.com/trading/trading-dashboard",
+      "url": "https://www.fidelity.com/about-fidelity/our-company",
       "startDate": "2023-07-03",
       "endDate": "Present",
       "highlights": [
@@ -32,6 +32,50 @@
         "Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
         "Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
         "Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support"
+      ]
+    },
+    {
+      "name": "CGI",
+      "position": "Software Engineer Intern",
+      "url": "https://www.cgi.com/en/overview",
+      "startDate": "2022-06-06",
+      "endDate": "2022-09-06",
+      "highlights": [
+        "Utilized React-window for lazy loading, leveraged Reselect to optimize expensive function calls and compute derived data from the Redux store state",
+        "Designed RESTful APIs with Node.js for HR applications and created validations on JSON forms"
+      ]
+    },
+    {
+      "name": "Cisco Systems",
+      "position": "Software Engineer Intern",
+      "url": "https://www.cisco.com/c/en/us/about.html",
+      "startDate": "2021-03-02",
+      "endDate": "2022-08-29",
+      "highlights": [
+        "Developed Android Webex's calling features, achieving 100% code coverage with Espresso",
+        "Deployed a Jenkins pipeline in CI/CD to automate end-to-end tests, reducing testing time by 40%"
+      ]
+    },
+    {
+      "name": "SenseTime Group",
+      "position": "Software Engineer Intern",
+      "url": "https://www.sensetime.com/en/about-index#0",
+      "startDate": "2020-09-01",
+      "endDate": "2021-03-01",
+      "highlights": [
+        "Developed a shared Vue component library, facilitating cross-team reuse through dependency injection",
+        "Enhanced the performance of ultra-high-resolution images using Openseadragon, a JavaScript library known for its multi-layer zoom capability, resulting in an 83.3% improvement in efficiency",
+        "Achieved a 74.1% reduction in website load time by implementing lazy loading for components, and optimizing service and storage initialization as needed"
+      ]
+    },
+    {
+      "name": "Lenovo Research",
+      "position": "AI Intern",
+      "url": "https://research.lenovo.com/webapp/view_English/home.html",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-30",
+      "highlights": [
+        "Developed LeData to manage image and video training data, improving the efficiency of classification model training by 76%"
       ]
     }
   ],
