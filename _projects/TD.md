@@ -96,11 +96,11 @@ See your personal Trading Dashboard now in: <a href="https://digital.fidelity.co
     Set alerts, read news, and view events all in one snapshot
 </div>
 
-- **Architect**: iterated over UX designs and product requirements, architected and implemented seamless
+- **Architect**: I iterated over UX designs and product requirements, architected and implemented seamless
 isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle.
-- **Test**: achieved 100% code coverage with Jest and Jasmine, automated integration tests and system
+- **Test**: I achieved 100% code coverage with Jest and Jasmine, automated integration tests and system
 tests with Selenium and Karate
-- **Release**: planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing,
+- **Release**: I planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing,
 and deployed production installs with Jenkins and Planit
-- **Post-release**: managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk
+- **Post-release**: I managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk
 dashboards for on-call support
