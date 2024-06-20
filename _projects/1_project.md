@@ -2,7 +2,7 @@
 layout: page
 title: Trading Dashboard
 description:
-img: assets/img/12.jpg
+img: assets/img/TD1.png
 importance: 1
 category: work
 related_publications: true
