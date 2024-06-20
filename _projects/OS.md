@@ -14,6 +14,8 @@ This view gives customers the ability to sort their option positions by Expirati
 
 In addition, the view displays margin requirements and current values for the related positions.
 
+See your personal Option Summary now in: <a href="https://digital.fidelity.com/ftgw/digital/optsumex">https://digital.fidelity.com/ftgw/digital/optsumex</a>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/OS2.jpg" title="Option Summary" class="img-fluid rounded z-depth-1" %}
