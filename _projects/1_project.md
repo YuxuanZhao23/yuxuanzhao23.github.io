@@ -5,21 +5,19 @@ description:
 img: assets/img/TD1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Trading Dashboard makes trading easier by integrating all of your essential tools in one screen. It works on any browser, desktop, or tablet.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TD2.jpg" title="trading dashboard" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    See all your investment data in real time. It is designed for the way you want to manage investments
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,14 +32,6 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
