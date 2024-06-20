@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Yuxuan Zhao, an innovative, detail-oriented, and passionate Full Stack Engineer at Fidelity. With over 2 years of experience, I've been happily architecting and developing robust and scalable applications using Angular, React, and Node.js. I've also had the pleasure of interning at CGI, Cisco, SenseTime, and Lenovo Research.
+Hi there! I'm Yuxuan Zhao, an innovative, detail-oriented, and passionate Full Stack Engineer 3 at Fidelity. With over 2 years of experience, I've been happily architecting and developing robust and scalable applications using Angular, React, and Node.js. I've also had the pleasure of interning at CGI, Cisco, SenseTime, and Lenovo Research.
 
 I’m also a dedicated researcher with over 3 years of experience in Human-Computer Interaction, having published 3 papers in top conferences and journals. I'm a proud <a href='https://www.brown.edu'>🐻 Bear</a>, having earned my Master of Science in Computer Science from Brown University. And yes, I even survived the notoriously challenging Data Structures and Algorithms course at <a href='https://www.harvard.edu/'>Harvard</a>!
 
