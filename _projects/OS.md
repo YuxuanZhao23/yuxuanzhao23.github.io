@@ -14,10 +14,9 @@ giscus_comments: false
     </div>
 </div>
 
+The Option Summary View is a position page available to customers whose accounts are approved to trade options.
 
-The Option Summary View is a position page available to customers whose accounts are approved to trade options. 
-
-This view gives customers the ability to sort their option positions by Expiration, Strategy or Underlying. 
+This view gives customers the ability to sort their option positions by Expiration, Strategy or Underlying.
 
 In addition, the view displays margin requirements and current values for the related positions.
 

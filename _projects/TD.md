@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-Trading Dashboard is Fidelity’s latest trading platform, it attracting over 1.25 million customers in a year. 
+Trading Dashboard is Fidelity’s latest trading platform, it attracting over 1.25 million customers in a year.
 
 It makes trading so easy by integrating all of your essential tools in one screen. It is compatible on any browser, desktop, or tablet.
 
@@ -97,10 +97,10 @@ See your personal Trading Dashboard now in: <a href="https://digital.fidelity.co
 </div>
 
 - **Architect**: I iterated over UX designs and product requirements, architected and implemented seamless
-isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle.
+  isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle.
 - **Test**: I achieved 100% code coverage with Jest and Jasmine, automated integration tests and system
-tests with Selenium and Karate
+  tests with Selenium and Karate
 - **Release**: I planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing,
-and deployed production installs with Jenkins and Planit
+  and deployed production installs with Jenkins and Planit
 - **Post-release**: I managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk
-dashboards for on-call support
+  dashboards for on-call support

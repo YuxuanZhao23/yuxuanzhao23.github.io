@@ -100,9 +100,7 @@
       "url": "https://research.lenovo.com/webapp/view_English/home.html",
       "startDate": "2019-07-01",
       "endDate": "2019-08-30",
-      "highlights": [
-        "Developed LeData to manage image and video training data, improving the efficiency of classification model training by 76%"
-      ]
+      "highlights": ["Developed LeData to manage image and video training data, improving the efficiency of classification model training by 76%"]
     }
   ],
   "education": [
