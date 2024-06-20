@@ -28,19 +28,19 @@
     {
       "name": "Framework",
       "level": "Master",
-      "icon": "fa-solid fa-box-open",
+      "icon": "fa-solid fa-cube",
       "keywords": ["Angular", "React", "Node.js", "MongoDB"]
     },
     {
       "name": "Testing",
       "level": "Master",
-      "icon": "fa-solid fa-vial-virus",
+      "icon": "fa-solid fa-bug",
       "keywords": ["Jest", "Jasmine", "Selenium", "Karate"]
     },
     {
       "name": "Tools",
       "level": "Master",
-      "icon": "fa-solid fa-screwdriver-wrench",
+      "icon": "fa-solid fa-wrench",
       "keywords": ["Git", "Jenkins", "Docker", "Webpack"]
     }
   ],
@@ -119,7 +119,6 @@
     {
       "institution": "Harvard University",
       "url": "https://www.harvard.edu",
-      "area": "Data Structure and Algorithm",
       "studyType": "Cross Registration",
       "startDate": "2022-01-01",
       "endDate": "2022-05-30",
