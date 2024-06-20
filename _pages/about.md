@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Full Stack Engineer 3, <a href='https://www.fidelity.com/about-fidelity/our-company'>Fidelity</a>
 
