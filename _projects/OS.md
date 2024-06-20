@@ -26,7 +26,7 @@ In addition, the view displays margin requirements and current values for the re
     </div>
 </div>
 
-We have revamped the classic Option Summary Page. The new version features a responsive layout, real-time streaming quotes, and an elegant design.
+We have revamped this classic Option Summary Page. The new Option Summary features a responsive layout, real-time streaming quotes, and an elegant design.
 
 - I enhanced the option summary grid using AG-Grid, boosting user productivity by 25%
 - I led the design and implementation of GraphQL schema and resolvers

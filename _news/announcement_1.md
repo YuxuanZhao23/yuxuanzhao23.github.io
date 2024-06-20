@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The latest [Option Summary](https://digital.fidelity.com/ftgw/digital/option-summary) is 100% rolled out!
+The latest [Option Summary](https://yuxuanzhao23.github.io/projects/OS/) is 100% rolled out!
