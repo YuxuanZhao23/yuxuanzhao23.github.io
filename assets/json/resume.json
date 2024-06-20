@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Yuxuan Zhao",
-    "phone": "(401) 688-8189",
+    "first name": "Yuxuan",
+    "last name": "Zhao",
     "email": "yuxuan.zhao2024@gmail.com",
-    "location": {
-      "address": "331 Hope St",
-      "postalCode": "RI 02906",
-      "city": "Providence",
-      "countryCode": "US",
-      "region": "Rhode Island"
-    },
+    "phone": "(401) 688-8189",
+    "linkedin": "https://www.linkedin.com/in/yuxuanzhao24",
+    "address": "331 Hope St",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "postal code": "02906",
     "profiles": [
       {
         "network": "LinkedIn",
