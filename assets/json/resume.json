@@ -29,7 +29,12 @@
       "url": "https://www.fidelity.com/trading/trading-dashboard",
       "startDate": "2023-07-03",
       "endDate": "Present",
-      "highlights": ["Iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle", "Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate", "Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit", "Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support"]
+      "highlights": [
+        "Iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle",
+        "Achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
+        "Planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
+        "Managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support"
+      ]
     }
   ],
   "education": [
@@ -85,46 +90,25 @@
       "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "GraphQL"
-      ]
+      "keywords": ["JavaScript", "TypeScript", "HTML", "CSS", "GraphQL"]
     },
     {
       "name": "Framework",
       "level": "Master",
       "icon": "fa-solid fa-box-open",
-      "keywords": [
-        "Angular",
-        "React",
-        "Node.js",
-        "MongoDB"
-      ]
+      "keywords": ["Angular", "React", "Node.js", "MongoDB"]
     },
     {
       "name": "Testing",
       "level": "Master",
       "icon": "fa-solid fa-vial-virus",
-      "keywords": [
-        "Jest",
-        "Jasmine",
-        "Selenium",
-        "Karate"
-      ]
+      "keywords": ["Jest", "Jasmine", "Selenium", "Karate"]
     },
     {
       "name": "Tools",
       "level": "Master",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "Git",
-        "Jenkins",
-        "Docker",
-        "Webpack"
-      ]
+      "keywords": ["Git", "Jenkins", "Docker", "Webpack"]
     }
   ]
 }
