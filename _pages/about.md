@@ -6,7 +6,7 @@ subtitle: Senior Software Engineer, <a href='https://www.fidelity.com/about-fide
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: cover.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
