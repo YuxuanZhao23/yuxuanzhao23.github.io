@@ -2,7 +2,7 @@
 layout: page
 title: BOBST Compliance
 description: Python scraper for BOBST
-img: assets/img/BC1.png
+img: assets/img/BC1.jpg
 importance: 3
 category: work
 related_publications: false
@@ -12,7 +12,7 @@ This project is designed to assist BOBST in fulfilling their compliance requirem
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BC2.jpg" title="bobst website" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/BC2.png" title="bobst website" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

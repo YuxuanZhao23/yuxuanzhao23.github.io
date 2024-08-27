@@ -12,7 +12,7 @@ Alfred is a prototype framework for integrating large pretrained model into prog
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/AR2.jpg" title="poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/AR2.png" title="poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
