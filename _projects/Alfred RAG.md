@@ -18,7 +18,7 @@ Alfred is a prototype framework for integrating large pretrained model into prog
 
 I collaborated with PhD candidate Yu on this project involving the integration of Retrieval-Augmented Generation (RAG) techniques into Alfred. My contributions focused on enhancing the system's ability to efficiently retrieve and generate contextually relevant information, significantly improving its performance and accuracy.
 
-GitHub link: https://github.com/YuxuanZhao23/alfred-rag
+GitHub link: <a href="https://github.com/YuxuanZhao23/alfred-rag">https://github.com/YuxuanZhao23/alfred-rag</a>
 
 - I developed a Retrieval-Augmented Generation (RAG) system, integrating Faiss for efficient vector search
 and OpenAI’s GPT models for natural language queries

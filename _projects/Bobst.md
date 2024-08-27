@@ -16,7 +16,7 @@ This project is designed to assist BOBST in fulfilling their compliance requirem
     </div>
 </div>
 
-GitHub link: https://github.com/YuxuanZhao23/BOBST-Compliance
+GitHub link: <a href="https://github.com/YuxuanZhao23/BOBST-Compliance">https://github.com/YuxuanZhao23/BOBST-Compliance</a>
 
 - Automated Web Scraping: The scraper navigates through various pages of the BOBST website, extracting text content from advertisements.
 - Inappropriate Expression Detection: The extracted content is analyzed against a predefined list of inappropriate expressions, with the ability to customize and expand the list as needed.
