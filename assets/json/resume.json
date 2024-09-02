@@ -66,13 +66,13 @@
     },
     {
       "name": "Cisco Systems",
-      "position": "Software Engineer Intern",
+      "position": "Software Automation Engineer Intern",
       "url": "https://www.cisco.com/c/en/us/about.html",
       "startDate": "2021-03-02",
       "endDate": "2021-08-29",
       "highlights": [
-        "Developed Android Webex's calling features, achieving 100% code coverage with Espresso",
-        "Deployed a Jenkins pipeline in CI/CD to automate end-to-end tests, reducing testing time by 40%"
+        "Designed and implemented WebRTC real-time video and audio communication features for Webex, achieving 100% code coverage with Espresso",
+        "Optimized media transmission and ensured low-latency communication by integrating advanced codecs and adaptive bitrate streaming, improving user experience across various network conditions"
       ]
     },
     {
@@ -82,8 +82,8 @@
       "startDate": "2020-09-01",
       "endDate": "2021-03-01",
       "highlights": [
-        "Developed a shared Vue component library, facilitating cross-team reuse through dependency injection",
-        "Enhanced the performance of ultra-high-resolution images using Openseadragon, a JavaScript library known for its multi-layer zoom capability, resulting in an 83.3% improvement in efficiency"
+        "Enhanced the performance of ultra-high-resolution images modifying Openseadragon, a JavaScript library known for its multi-layer zoom capability",
+        "Utilized Electron to transform a web-based application into a Windows desktop application, enabling seamless desktop functionality while maintaining the existing web technology stack"
       ]
     },
     {
