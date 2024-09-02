@@ -48,7 +48,7 @@
       "endDate": "Present",
       "highlights": [
         "<b>Architect</b>: iterated over UX designs and product requirements, architected and implemented seamless isomorphic solutions using Angular and Node.js within a 2-week Agile sprint cycle",
-        "<b>Test</b>: achieved 100% code coverage with Jest and Jasmine, automated integration tests and system tests with Selenium and Karate",
+        "<b>Test</b>: achieved 100% code coverage with Jest and Jasmine, automated integration tests, and system tests with Selenium and Karate",
         "<b>Release</b>: planned a series of Minimum Viable Products, created rollout plans, conducted A/B testing, and deployed production installs with Jenkins and Planit",
         "<b>Post-release</b>: managed feature toggles and collected metrics in LaunchDarkly, monitored Splunk dashboards for on-call support"
       ]
@@ -82,7 +82,7 @@
       "startDate": "2020-09-01",
       "endDate": "2021-03-01",
       "highlights": [
-        "Enhanced the performance of ultra-high-resolution images modifying Openseadragon, a JavaScript library known for its multi-layer zoom capability",
+        "Enhanced the performance of ultra-high-resolution images by modifying Openseadragon, a JavaScript library known for its multi-layer zoom capability",
         "Utilized Electron to transform a web-based application into a Windows desktop application, enabling seamless desktop functionality while maintaining the existing web technology stack"
       ]
     },
